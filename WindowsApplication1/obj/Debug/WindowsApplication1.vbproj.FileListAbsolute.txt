@@ -1,0 +1,30 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Board.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Board.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Board.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Board.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Board.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Board.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Board.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Board.pdb
+C:\Users\Administrator\Documents\Board\Board\WindowsApplication1\bin\Debug\Board.exe
+C:\Users\Administrator\Documents\Board\Board\WindowsApplication1\bin\Debug\Board.pdb
+C:\Users\Administrator\Documents\Board\Board\WindowsApplication1\bin\Debug\Board.xml
+C:\Users\Administrator\Documents\Board\Board\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Board\Board\WindowsApplication1\obj\Debug\Board.Form1.resources
+C:\Users\Administrator\Documents\Board\Board\WindowsApplication1\obj\Debug\Board.Resources.resources
+C:\Users\Administrator\Documents\Board\Board\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Board\Board\WindowsApplication1\obj\Debug\Board.exe
+C:\Users\Administrator\Documents\Board\Board\WindowsApplication1\obj\Debug\Board.xml
+C:\Users\Administrator\Documents\Board\Board\WindowsApplication1\obj\Debug\Board.pdb
